@@ -169,10 +169,7 @@ def ckx():
 	uuid = str(os.geteuid()) + str(os.getlogin())
 	id = "→".join(uuid)
 	server = requests.get(https://raw.githubusercontent.com/Legharibadmshhai/Bewafaa/main/Approved.txt').text
-	try:
-	server = requests.get(https://raw.githubusercontent.com/Legharibadmshhai/Bewafaa/main/Approved.txt").text
-		uuid = str(os.geteuid()) + str(os.getlogin())
-	id = "→".join(uuid)
+
 			pass
 		else:
 			msg = str(os.geteuid())
